@@ -14,7 +14,6 @@
 source 'https://rubygems.org'
 
 
-
 # We want to use a simple web framework and Sinatra makes it pretty easy.
 # @see http://www.sinatrarb.com/
 gem 'sinatra'
